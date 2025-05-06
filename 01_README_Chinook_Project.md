@@ -19,7 +19,7 @@ Les données utilisées proviennent de la **Chinook Database**, une base de réf
 Grâce à ce projet, j’ai su transformer des données brutes issues de Chinook Database en **insights clairs et actionnables**, avec un reporting automatisé et des visualisations percutantes sous Power BI.  
 Ce travail m’a permis de consolider mes compétences en :
 - Extraction SQL (requêtes et vues)
-- Automatisation des exports CSV en Python (via `sqlalchemy` et `pandas`)
+- Automatisation des exports CSV en Python (via `MySQL` et `pandas`)
 - Construction de dashboards interactifs (Power BI)  
 
 Une expérience concrète de bout en bout, allant de la base de données jusqu’au tableau de bord décisionnel.
@@ -30,7 +30,7 @@ Une expérience concrète de bout en bout, allant de la base de données jusqu�
 
 ✅ Extraction et agrégation des données via **requêtes SQL** (`SELECT`, `WHERE`, `GROUP BY`, `HAVING`)  
 ✅ Création de **vues SQL** pour automatiser les rapports  
-✅ Automatisation des exports CSV en utilisant **Python** (`sqlalchemy`, `pandas`)  
+✅ Automatisation des exports CSV en utilisant **Python** (`MySQL`, `pandas`)  
 ✅ Création d’un **dashboard interactif sous Power BI** pour analyser les résultats et fournir des insights métier
 
 ---
