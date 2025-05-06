@@ -59,10 +59,8 @@ Une expérience concrète de bout en bout, allant de la base de données jusqu�
   Creation_de_vues_sur_MYSQL.sql
 /python
   export_views_to_csv.py
-/exports
-  fichiers CSV générés automatiquement
 /dashboard
-  captures d’écran des dashboards Power BI
+  PDF des dashboards Power BI
 ```
 
 ---
