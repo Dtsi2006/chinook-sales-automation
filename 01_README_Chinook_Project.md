@@ -87,13 +87,4 @@ Une expérience concrète de bout en bout, allant de la base de données jusqu�
 3. Lancer le script Python `/python/export_views_to_csv.py` pour générer les fichiers CSV  
 4. Charger les CSV dans Power BI pour recréer ou adapter le dashboard
 
----
 
-## 🚀 À venir
-
-🔧 Publication des dashboards Power BI interactifs en ligne  
-🔧 Ajout de notebooks explicatifs et d’un guide étape par étape pour les reproduire
-
----
-
-📌 **Bientôt disponible sur mon GitHub Portfolio.**
